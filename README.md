@@ -1,10 +1,10 @@
 # Flight Price Prediction
 
-This project demonstrates Machine Learning forecasting model for predicting flight prices using historical data.
+This project demonstrates Machine Learning model for predicting flight prices using historical data.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Project Structure](#projectstructure)
+- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
